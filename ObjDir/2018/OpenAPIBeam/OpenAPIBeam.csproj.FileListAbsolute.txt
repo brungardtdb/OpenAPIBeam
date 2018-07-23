@@ -1,0 +1,10 @@
+C:\C#\Tekla_API\OpenAPIBeam\OpenAPIBeam\bin\Debug\OpenAPIBeam.exe.config
+C:\C#\Tekla_API\OpenAPIBeam\OpenAPIBeam\bin\Debug\OpenAPIBeam.exe
+C:\C#\Tekla_API\OpenAPIBeam\OpenAPIBeam\bin\Debug\OpenAPIBeam.pdb
+C:\C#\Tekla_API\OpenAPIBeam\ObjDir\2018\OpenAPIBeam\OpenAPIBeam.csprojResolveAssemblyReference.cache
+C:\C#\Tekla_API\OpenAPIBeam\ObjDir\2018\OpenAPIBeam\OpenAPIBeam.IntroForm.resources
+C:\C#\Tekla_API\OpenAPIBeam\ObjDir\2018\OpenAPIBeam\OpenAPIBeam.Properties.Resources.resources
+C:\C#\Tekla_API\OpenAPIBeam\ObjDir\2018\OpenAPIBeam\OpenAPIBeam.csproj.GenerateResource.cache
+C:\C#\Tekla_API\OpenAPIBeam\ObjDir\2018\OpenAPIBeam\OpenAPIBeam.csproj.CoreCompileInputs.cache
+C:\C#\Tekla_API\OpenAPIBeam\ObjDir\2018\OpenAPIBeam\OpenAPIBeam.exe
+C:\C#\Tekla_API\OpenAPIBeam\ObjDir\2018\OpenAPIBeam\OpenAPIBeam.pdb
